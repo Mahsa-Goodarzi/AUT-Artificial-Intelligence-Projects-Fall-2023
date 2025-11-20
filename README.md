@@ -38,6 +38,9 @@ To run these notebooks, you will generally need:
 * Jupyter Notebook / Google Colab
 * Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
 
-## Author
-**Mahsa Goodarzi** Amirkabir University of Technology  
-Fall 2023
+## Course Details
+* **Author:** Mahsa Goodarzi
+* **Course:** Artificial Intelligence
+* **Institution:** Amirkabir University of Technology (Tehran Polytechnic)
+* **Instructor:** Dr. Mehdi Ghatee
+* **Semester:** Fall 2023
